@@ -1,7 +1,7 @@
 To Do
 
-[  ] Set Proper API Key
+[ ] Set Proper API Key
 
-[  ] Create .env file and call API Key from .env file
+[ ] Create .env file and call API Key from .env file
 
-[  ] Make the application works!
+[ ] Make the application works!
